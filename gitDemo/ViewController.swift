@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let gitDemo: Int = 0
+    let gitDemo: Int = 7
 
     override func viewDidLoad() {
         super.viewDidLoad()
